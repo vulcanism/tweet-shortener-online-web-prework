@@ -1,3 +1,5 @@
 def dictionary
-  
+  words = {
+    
+  }
 end
