@@ -15,4 +15,5 @@ end
 
 def word_substituter(tweet)
   array = tweet.split(" ")
+  
 end
