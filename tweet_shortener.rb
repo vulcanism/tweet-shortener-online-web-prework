@@ -26,5 +26,5 @@ array.join(" ")
 end
 
 def bulk_tweet_shortener(array)
-  array.each 
+  array.each {|x| puts word_substituter (x)}
 end
